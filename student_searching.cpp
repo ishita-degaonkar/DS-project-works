@@ -16,7 +16,7 @@ int main()
     cout << "Enter roll number to search: ";
     cin >> searchRoll;
 
-    for(int i = 0 i < 5; i++)
+    for(int i = 0; i < 5; i++)
         {
          if(rollNo[i] == searchRoll)
          {
