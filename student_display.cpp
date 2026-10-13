@@ -6,7 +6,7 @@ int main()
   int n;
   cout<<"Enter the number of student:";
   cin>>n;
-  int rollNo[n[;
+  int rollNo[i];
   cout<<"Enter the roll no:\n";
   for (int i = 0; i < n; i++)
 {
